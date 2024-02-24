@@ -30,7 +30,7 @@ At Matos Science Consulting, we strive to provide high-quality solutions tailore
 ### My list of proficiencies includes many fields in AI and Statistics, including:
 
 - 🤖 Deep Learning, including natural language processing, LLMs, computer vision, fraud detection, and many others.
-- ⚙ Machine Learning for many different kinds of data such as geographic, financial, visual, among others, for any objective such as forecasts, predictions, classification, and recommendation systems, and many more.
+- ⚙ Machine Learning for many different kinds of data such as geographic, financial, visual, among others, for any objective such as forecasts, predictions, classification, recommendation systems, and many more.
 - 📈 Statistics, from exploratory analysis, business analytics, market research, and similar, to skills necessary for experiment design, such as checking and adjusting for biases, assigning subjects to groups, etc.
 
 ### Currently, I've been working on:
