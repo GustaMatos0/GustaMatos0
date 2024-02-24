@@ -45,6 +45,9 @@ You can contact me at: research.glmatos@gmail.com
 Feel free to explore my public projects to get a glimpse of my expertise and interests, and to reach out for a consultation! Looking forward to collaborating with you! 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaMatos0)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaMatos0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GustaMatos0/GustaMatos0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
