@@ -40,7 +40,7 @@ At Matos Science Consulting, we strive to provide high-quality solutions tailore
 - 🧪 Engaging in ongoing research endeavors.
 - 🌐 Expanding the online presence of Matos Science Consulting.
 
-You can contact me at: research.glmatos@gmail.com
+You can contact me at: matosgustavo@statmatos.com
 
 Feel free to explore my public projects to get a glimpse of my expertise and interests, and to reach out for a consultation! Looking forward to collaborating with you! 🚀
 <!--
